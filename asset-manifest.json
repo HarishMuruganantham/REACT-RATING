@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-RATING/static/css/main.996d6ab8.css",
+    "main.js": "/REACT-RATING/static/js/main.6572978a.js",
+    "static/js/453.4c5a263c.chunk.js": "/REACT-RATING/static/js/453.4c5a263c.chunk.js",
+    "index.html": "/REACT-RATING/index.html",
+    "main.996d6ab8.css.map": "/REACT-RATING/static/css/main.996d6ab8.css.map",
+    "main.6572978a.js.map": "/REACT-RATING/static/js/main.6572978a.js.map",
+    "453.4c5a263c.chunk.js.map": "/REACT-RATING/static/js/453.4c5a263c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996d6ab8.css",
+    "static/js/main.6572978a.js"
+  ]
+}
